@@ -1,7 +1,7 @@
 # PATH FINDER for UGA 
-PATH FINDER is a simple and powerful SMS service that will save you headaches from the UGA bus transit. When you tell us your current location and where you want to go, we will find you the quickest way to get there. It’s that simple. What’s more, you don’t need the internet to use our service!
-
 Authors: **Jae Park (JP)**, **Jae Oh**, **Geonho Kim**
+
+PATH FINDER is a simple and powerful SMS service that will save you headaches from the UGA bus transit. When you tell us your current location and where you want to go, we will find you the quickest way to get there. It’s that simple. What’s more, you don’t need the internet to use our service!
 
 ## Inspiration
 If you're riding the UGA bus for the first time, you've probably felt a bit lost. We FEEL you. You’re not quite sure how to use the UGA app, and sometimes you’re scratching your head trying to discover the most optimal path to your next class. Don’t EVEN talk about the weak internet connection in front of Tate. Feeling frustrated yet? That’s why we created this project.
