@@ -30,3 +30,9 @@ Through this project, we got more familiar with a lot of popular APIs like the T
 
 ## What’s Next For PATH FINDER
 We believe we could make a more efficient way to find the route by utilizing cache to cut unnecessary API calls. Also, we thought about more options we could add to the service. For example, we can make the service tell our users how filled the upcoming buses are or information about whether the bus drivers are going on a break.
+
+## Code showcase
+[![PATH FINDER DEMO](http://img.youtube.com/vi/BNNW--CPRdM/0.jpg)](http://www.youtube.com/watch?v=BNNW--CPRdM)
+
+## Demonstration
+[![PATH FINDER DEMO](http://img.youtube.com/vi/f0YUwrMpb_c/0.jpg)](http://www.youtube.com/watch?v=f0YUwrMpb_c)
