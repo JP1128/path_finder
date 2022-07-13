@@ -1,4 +1,12 @@
 # PATH FINDER for UGA 
+<p>
+  <a href="https://devpost.com/software/path-finder-l1zg0x">
+    <img src="https://img.shields.io/badge/devpost-PATH%20FINDER-003E54?style=for-the-badge&logo=devpost"/>
+  </a>
+  <a><img src="https://img.shields.io/badge/Winner-Best%20Overall-F3BF1E?style=for-the-badge"/></a>
+  <a><img src="https://img.shields.io/badge/Winner-Most%20Creative%20Use%20of%20Twilio-F3BF1E?style=for-the-badge"/></a>
+</p>
+
 Authors: **Jae Park (JP)**, **Jae Oh**, **Geonho Kim**
 
 PATH FINDER is a simple and powerful SMS service that will save you headaches from the UGA bus transit. When you tell us your current location and where you want to go, we will find you the quickest way to get there. It’s that simple. What’s more, you don’t need the internet to use our service!
